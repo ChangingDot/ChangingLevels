@@ -1,0 +1,23 @@
+{
+    "initial_problem": {
+        "error": "We want to simulate a method changing name",
+        "file_path": "/Users/matthieu/Documents/projects/codebase_to_gold/sample-codebases/update-dep/CustomChanges1/Level1/item.cs"
+    },
+    "private_name_change": {
+        "0": [
+            "change",
+            "Change Length to DoubleLength"
+        ],
+        "1": [
+            "change",
+            "Change Length to DoubleLength"
+        ]
+    },
+    "public_name_change": {
+        "0": [
+            "change",
+            "Change Item to ItemName"
+        ],
+        "todo": "when we can listen to changes on all files"
+    }
+}
