@@ -1,0 +1,17 @@
+{
+    "item_from_other_using": {
+        "0": [
+            "change",
+            "Change namespace Level2_1; to namespace Level2_3;"
+        ],
+        "1": [
+            "change",
+            "Change namespace Level2_1; to namespace Level2_2;"
+        ],
+        "2": [
+            "change",
+            "Change namespace Level2_1; to namespace Level2_2;"
+        ],
+        "todo": "when we can listen to changes on all files"
+    }
+}
