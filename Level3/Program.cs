@@ -46,6 +46,7 @@ namespace Level3
                 for (var j = 0; j < Items.Count; j++)
                 {
                     Console.WriteLine(Items[j]);
+                    Items[j].ShoutItemName();
                 }
                 Console.WriteLine("");
                 app.UpdateQuality();

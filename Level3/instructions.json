@@ -13,5 +13,15 @@
             "change",
             "use static attribute buzzword in app.UpdateQuality(); call"
         ]
+    },
+    "change_method": {
+        "0": [
+            "change",
+            "Change ShoutItemName to ReallyShoutItemName"
+        ],
+        "1": [
+            "change",
+            "Add parameter new of Shout Config with params shoutPrefix: Really, useEmojis: true, useUpper: true"
+        ]
     }
 }
