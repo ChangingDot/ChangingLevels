@@ -1,0 +1,17 @@
+{
+    "add_parameter": {
+        "0": [
+            "add",
+            "Add line Console.WriteLine(buzzword); to log the buzzword variable",
+            13
+        ],
+        "1": [
+            "change",
+            "Add parameter string buzzword to  public void UpdateQuality()"
+        ],
+        "2": [
+            "change",
+            "use static attribute buzzword in app.UpdateQuality(); call"
+        ]
+    }
+}
