@@ -11,6 +11,19 @@
         "1": [
             "change",
             "Change Length to DoubleLength"
+        ],
+        "Wewanttosimulateaprivateattributechangingname_/Users/matthieu/Documents/projects/codebase_to_gold/sample-codebases/update-dep/CustomChanges1/Level1/Item.cs_8": [
+            "change",
+            "Change Length to DoubleLength"
+        ],
+        "ItemdoesnotcontainadefinitionforLengthandnoaccessibleextensionmethodLengthacceptingafirstargumentoftypeItemcouldbefound(areyoumissingausingdirectiveoranassemblyreference?)_/Users/matthieu/Documents/projects/codebase_to_gold/sample-codebases/update-dep/CustomChanges1/Level1/Item.cs_12": [
+            "change",
+            "Change Length to DoubleLength"
+        ],
+        "4": [
+            "change",
+            "Change Length to DoubleLength",
+            8
         ]
     },
     "public_name_change": {
@@ -18,6 +31,41 @@
             "change",
             "Change Item to ItemName"
         ],
-        "todo": "when we can listen to changes on all files"
+        "ItemdoesnotcontainadefinitionforNameandnoaccessibleextensionmethodNameacceptingafirstargumentoftypeItemcouldbefound(areyoumissingausingdirectiveoranassemblyreference?)_/Users/matthieu/Documents/projects/codebase_to_gold/sample-codebases/update-dep/CustomChanges1/Level1/GuildedRose.cs_17": [
+            "change",
+            "Change Name to ItemName"
+        ],
+        "ItemdoesnotcontainadefinitionforNameandnoaccessibleextensionmethodNameacceptingafirstargumentoftypeItemcouldbefound(areyoumissingausingdirectiveoranassemblyreference?)_/Users/matthieu/Documents/projects/codebase_to_gold/sample-codebases/update-dep/CustomChanges1/Level1/GuildedRose.cs_21": [
+            "change",
+            "Change Name to ItemName"
+        ],
+        "ItemdoesnotcontainadefinitionforNameandnoaccessibleextensionmethodNameacceptingafirstargumentoftypeItemcouldbefound(areyoumissingausingdirectiveoranassemblyreference?)_/Users/matthieu/Documents/projects/codebase_to_gold/sample-codebases/update-dep/CustomChanges1/Level1/GuildedRose.cs_33": [
+            "change",
+            "Change Name to ItemName"
+        ],
+        "ItemdoesnotcontainadefinitionforNameandnoaccessibleextensionmethodNameacceptingafirstargumentoftypeItemcouldbefound(areyoumissingausingdirectiveoranassemblyreference?)_/Users/matthieu/Documents/projects/codebase_to_gold/sample-codebases/update-dep/CustomChanges1/Level1/GuildedRose.cs_54": [
+            "change",
+            "Change Name to ItemName"
+        ],
+        "ItemdoesnotcontainadefinitionforNameandnoaccessibleextensionmethodNameacceptingafirstargumentoftypeItemcouldbefound(areyoumissingausingdirectiveoranassemblyreference?)_/Users/matthieu/Documents/projects/codebase_to_gold/sample-codebases/update-dep/CustomChanges1/Level1/GuildedRose.cs_61": [
+            "change",
+            "Change Name to ItemName"
+        ],
+        "ItemdoesnotcontainadefinitionforNameandnoaccessibleextensionmethodNameacceptingafirstargumentoftypeItemcouldbefound(areyoumissingausingdirectiveoranassemblyreference?)_/Users/matthieu/Documents/projects/codebase_to_gold/sample-codebases/update-dep/CustomChanges1/Level1/GuildedRose.cs_63": [
+            "change",
+            "Change Name to ItemName"
+        ],
+        "ItemdoesnotcontainadefinitionforNameandnoaccessibleextensionmethodNameacceptingafirstargumentoftypeItemcouldbefound(areyoumissingausingdirectiveoranassemblyreference?)_/Users/matthieu/Documents/projects/codebase_to_gold/sample-codebases/update-dep/CustomChanges1/Level1/GuildedRose.cs_67": [
+            "change",
+            "Change Name to ItemName"
+        ],
+        "ItemdoesnotcontainadefinitionforNameandnoaccessibleextensionmethodNameacceptingafirstargumentoftypeItemcouldbefound(areyoumissingausingdirectiveoranassemblyreference?)_/Users/matthieu/Documents/projects/codebase_to_gold/sample-codebases/update-dep/CustomChanges1/Level1/Item.cs_12": [
+            "change",
+            "Change Name to ItemName"
+        ],
+        "ItemdoesnotcontainadefinitionforName_/Users/matthieu/Documents/projects/codebase_to_gold/sample-codebases/update-dep/CustomChanges1/Level1/Program.cs_13": [
+            "change",
+            "Change Name to ItemName"
+        ]
     }
 }
