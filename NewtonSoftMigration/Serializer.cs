@@ -10,6 +10,7 @@ public class JsonSerializer
 
     public static T DeserializeObject<T>(string jsonString)
     {
+#pragma warning disable CS8603 // Possible null reference return.
         return JsonConvert.DeserializeObject<T>(jsonString);
     }
 }

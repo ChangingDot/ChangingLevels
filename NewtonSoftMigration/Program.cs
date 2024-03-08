@@ -7,7 +7,7 @@ public class Program
         {
             Name = "Apple",
             Expiry = new DateTime(2008, 12, 28),
-            Sizes = new string[] { "Small" }
+            Sizes = ["Small"]
         };
 
         // Serialize the product object to JSON
