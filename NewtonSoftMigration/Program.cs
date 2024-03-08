@@ -17,9 +17,16 @@ public class Program
 
         // Deserialize the JSON back to a Product object
         Product deserializedProduct = JsonSerializer.DeserializeObject<Product>(json);
-        Console.WriteLine("\nDeserialized Product:");
+        Console.WriteLine("Deserialized Product:");
         Console.WriteLine($"Name: {deserializedProduct.Name}");
         Console.WriteLine($"Expiry: {deserializedProduct.Expiry.ToShortDateString()}");
         Console.WriteLine($"Sizes: {string.Join(", ", deserializedProduct.Sizes)}");
+        // Expected
+        // Serialized JSON:
+        // {"Name":"Apple","Sizes":["Small"]}
+        // Deserialized Product:
+        // Name: Apple
+        // Expiry: 1/1/0001
+        // Sizes: Small
     }
 }
