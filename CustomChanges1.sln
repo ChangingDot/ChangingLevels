@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level3", "Level3\Level3.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewtonSoftMigration", "NewtonSoftMigration\NewtonSoftMigration.csproj", "{BAECE231-EFE1-44B0-B1EF-B87880649380}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewtonSoftMigration2", "NewtonSoftMigration2\NewtonSoftMigration2.csproj", "{116DA424-1B5B-441A-8DED-D7AA79373334}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BAECE231-EFE1-44B0-B1EF-B87880649380}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAECE231-EFE1-44B0-B1EF-B87880649380}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAECE231-EFE1-44B0-B1EF-B87880649380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{116DA424-1B5B-441A-8DED-D7AA79373334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{116DA424-1B5B-441A-8DED-D7AA79373334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{116DA424-1B5B-441A-8DED-D7AA79373334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{116DA424-1B5B-441A-8DED-D7AA79373334}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
