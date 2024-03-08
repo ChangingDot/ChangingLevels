@@ -1,5 +1,6 @@
 using Newtonsoft.Json;
 
+namespace NewtonSoftMigration;
 public class JsonSerializer
 {
     public static string SerializeObject<T>(T objectToSerialize)
